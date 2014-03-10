@@ -1,0 +1,16 @@
+{
+  "name": "ProffScraper",
+  "version": "0.0.0",
+  "description": "ProffScraper",
+  "main": "server.js",
+  "author": {
+    "name": "Simon Pedersen",
+    "email": ""
+  },
+  "dependencies": {
+    "request": "~2.34.0",
+    "cheerio": "~0.13.1",
+    "express": "~3.5.0",
+    "graceful-fs": "~2.0.2"
+  }
+}
